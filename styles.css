@@ -48,7 +48,7 @@ img {
 }
 
 .logo {
-    box-shadow: none;
+    box-shadow:5px 5px 5px 2px rgba(41, 35, 31, 1) ;
     border-color: darkred;
 }
 
