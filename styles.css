@@ -71,6 +71,6 @@ a:visited {
 }
 
 a:hover {
-    color: black;
+    color: rgb(175, 69, 69);
     font-size: 15px;
 }
