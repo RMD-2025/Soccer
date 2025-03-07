@@ -31,7 +31,15 @@ const Questions = [
             {text: "1863.", isCorrect: true},
            ]
     },
-    
+    {
+        q: "Fill in the blank: one of the requairments to be able to paly is _____.",
+        a: [{text: "candy.", isCorrect: false},
+            {text: "long hair.", isCorrect: false},
+            {text: "pets.", isCorrect: false},
+            {text: "shin gaurds.", isCorrect: true},
+           ]
+    },
+
    
     
 
