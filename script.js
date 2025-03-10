@@ -39,6 +39,14 @@ const Questions = [
             {text: "shin gaurds.", isCorrect: true},
            ]
     },
+    {
+        q: "Fill in the blank: The dimentions of a shin gaurd is _____.",
+        a: [{text: " 300ft.", isCorrect: false},
+            {text: ".01 inches", isCorrect: false},
+            {text: "1 inch tall and 5 inch wide.", isCorrect: false},
+            {text: " 4 inches tall and 1.5 inches wide.", isCorrect: true},
+           ]
+    },
 
    
     
