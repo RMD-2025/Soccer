@@ -49,11 +49,19 @@ const Questions = [
     },
 
 {
-        q: "choose one: How many shin gaurds will you have ?.",
+        q: "choose one: How many shin gaurds will you have ?",
         a: [{text: " 4", isCorrect: false},
             {text: "9", isCorrect: false},
             {text: "0", isCorrect: false},
             {text: "2", isCorrect: true},
+           ]
+    },
+    {
+        q: "choose one: Waht is one reason soccer is good for you ?",
+        a: [{text: " it makes you cool.", isCorrect: false},
+            {text: "it's not.", isCorrect: false},
+            {text: "You get hurt a lot.", isCorrect: false},
+            {text: "It improves muscle tone.", isCorrect: true},
            ]
     },
    
