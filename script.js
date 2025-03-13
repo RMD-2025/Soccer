@@ -64,13 +64,7 @@ const Questions = [
             {text: "It improves muscle tone.", isCorrect: true},
            ]
     },
-   
-    {
-        q: "choose one: Is reff class free ?",
-        a: [{text: " yes.", isCorrect: true},
-            {text: "no.", isCorrect: fasle},
-           ]
-    },
+
     
 
     // add more questions here....
