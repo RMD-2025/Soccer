@@ -1,6 +1,6 @@
 const Questions = [
     {
-        q: "Fill in the blank: lionel messi has scored  _____ goals in his career.",
+        q: "(1) Fill in the blank: lionel messi has scored  _____ goals in his career.",
         a: [{text: "5.", isCorrect: false},
             {text: "1.5 million.", isCorrect: false},
             {text: "850.", isCorrect: true},
@@ -8,7 +8,7 @@ const Questions = [
            ]
     },
     {
-        q: "Fill in the blank: Soccer is soccer not popular in _____.",
+        q: "(2) Fill in the blank: Soccer is soccer not popular in _____.",
         a: [{text: "France.", isCorrect: false},
             {text: "The Marshall Islands.", isCorrect: true},
             {text: "Mexico.", isCorrect: false},
@@ -16,7 +16,7 @@ const Questions = [
            ]
     },
     {
-        q: "Fill in the blank: The nubs on cleats are for _____.",
+        q: "(3) Fill in the blank: The nubs on cleats are for _____.",
         a: [{text: " grip.", isCorrect: true},
             {text: "stomping on players feet.", isCorrect: false},
             {text: "Poping the soccer ball.", isCorrect: false},
@@ -24,7 +24,7 @@ const Questions = [
            ]
     },
     {
-        q: "Fill in the blank: Soccer was created in  _____.",
+        q: "(4) Fill in the blank: Soccer was created in  _____.",
         a: [{text: "2020.", isCorrect: false},
             {text: "1890.", isCorrect: false},
             {text: "2004.", isCorrect: false},
@@ -32,7 +32,7 @@ const Questions = [
            ]
     },
     {
-        q: "Fill in the blank: one of the requairments to be able to paly is _____.",
+        q: "(5) Fill in the blank: one of the requairments to be able to paly is _____.",
         a: [{text: "candy.", isCorrect: false},
             {text: "long hair.", isCorrect: false},
             {text: "pets.", isCorrect: false},
@@ -40,7 +40,7 @@ const Questions = [
            ]
     },
     {
-        q: "Fill in the blank: The dimentions of a shin gaurd is _____.",
+        q: "(6) Fill in the blank: The dimentions of a shin gaurd is _____.",
         a: [{text: " 300ft tall and 9000 ft wide.", isCorrect: false},
             {text: ".01 inches tall by 99 inches wide", isCorrect: false},
             {text: "1 inch tall and 5 inch wide.", isCorrect: false},
@@ -49,7 +49,7 @@ const Questions = [
     },
 
 {
-        q: "choose one: How many shin gaurds will you have ?",
+        q: "(7) choose one: How many shin gaurds will you have ?",
         a: [{text: " 4", isCorrect: false},
             {text: "9", isCorrect: false},
             {text: "0", isCorrect: false},
@@ -57,7 +57,7 @@ const Questions = [
            ]
     },
     {
-        q: "choose one: Waht is one reason soccer is good for you ?",
+        q: "(8) choose one: Waht is one reason soccer is good for you ?",
         a: [{text: " it makes you cool.", isCorrect: false},
             {text: "it's not.", isCorrect: false},
             {text: "You get hurt a lot.", isCorrect: false},
