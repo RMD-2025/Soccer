@@ -65,6 +65,12 @@ const Questions = [
            ]
     },
    
+    {
+        q: "choose one: Is reff class free ?",
+        a: [{text: " yes.", isCorrect: true},
+            {text: "no.", isCorrect: fasle},
+           ]
+    },
     
 
     // add more questions here....
